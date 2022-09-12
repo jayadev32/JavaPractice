@@ -5,13 +5,30 @@ public class A {
 		System.out.println("2%");
 
 	}
+
 	public static void savings1() {
 		System.out.println("2%");
 
 	}
+
 	public static void savings2() {
 		System.out.println("2%");
 
 	}
 
+	private void fixed() {
+		System.out.println("2%");
+	}
+
+	private void fixed1() {
+		System.out.println("2%");
+	}
+
+	private void fixed2() {
+		System.out.println("2%");
+	}
+
+	private void fixed3() {
+		System.out.println("2%");
+	}
 }
