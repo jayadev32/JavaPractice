@@ -6,6 +6,16 @@ public class A {
 
 	}
 
+	public static void savings1() {
+		System.out.println("2%");
+
+	}
+
+	public static void savings2() {
+		System.out.println("2%");
+
+	}
+
 	private void fixed() {
 		System.out.println("2%");
 	}
